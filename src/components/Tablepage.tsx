@@ -44,9 +44,10 @@ function Tablepage() {
                     <Dropdown.Toggle split variant="secondary" id="dropdown-split-basic" />
 
                     <Dropdown.Menu>
-                        <Dropdown.Item href="#/action-1">22/23</Dropdown.Item>
-                        <Dropdown.Item href="#/action-2">21/22</Dropdown.Item>
-                        <Dropdown.Item href="#/action-3">20/21</Dropdown.Item>
+                        <Dropdown.Item >23/24</Dropdown.Item>
+                        <Dropdown.Item >22/23</Dropdown.Item>
+                        <Dropdown.Item >21/22</Dropdown.Item>
+                        <Dropdown.Item >20/21</Dropdown.Item>
                     </Dropdown.Menu>
                 </Dropdown>
             </div>

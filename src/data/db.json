@@ -231,7 +231,194 @@
                 {
                     "id": 1,
                     "season": "23/24",
-                    "team": "Borrusia Dortmund",
+                    "team": "FC Augsburg",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 2,
+                    "season": "23/24",
+                    "team": "Union Berlin",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 3,
+                    "season": "23/24",
+                    "team": "VfL Bochum",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 4,
+                    "season": "23/24",
+                    "team": "Werder Bre,em",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 5,
+                    "season": "23/24",
+                    "team": "Darmstadt 98",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 6,
+                    "season": "23/24",
+                    "team": "Borussia Dortmund",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 7,
+                    "season": "23/24",
+                    "team": "Eintracht Frankfurt",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 8,
+                    "season": "23/24",
+                    "team": "SC Freiburg",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 9,
+                    "season": "23/24",
+                    "team": "1. FC Heidenheim",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 10,
+                    "season": "23/24",
+                    "team": "1899 Hoffenheim",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 11,
+                    "season": "23/24",
+                    "team": "1. FC Koln",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 12,
+                    "season": "23/24",
+                    "team": "RB Leipzig",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 13,
+                    "season": "23/24",
+                    "team": "Bayer Leverkusen",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 14,
+                    "season": "23/24",
+                    "team": "Mainz 05",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 15,
+                    "season": "23/24",
+                    "team": "Borusia Monchengladbach",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 16,
+                    "season": "23/24",
+                    "team": "Bayern Munich",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 17,
+                    "season": "23/24",
+                    "team": "VfB Stuttgart",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 18,
+                    "season": "23/24",
+                    "team": "VfL Wolfsburg",
                     "played": "0",
                     "winns": "0",
                     "ties": "0",
@@ -243,15 +430,656 @@
         },
         {
             "id": 3,
-            "leauge": []
+            "leauge": [
+                {
+                    "id": 1,
+                    "season": "23/24",
+                    "team": "Real Sociedad",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 2,
+                    "season": "23/24",
+                    "team": "Las Palmas",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 3,
+                    "season": "23/24",
+                    "team": "Alaves",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 4,
+                    "season": "23/24",
+                    "team": "Celta Vigo",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 5,
+                    "season": "23/24",
+                    "team": "Cadiz",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 6,
+                    "season": "23/24",
+                    "team": "Rayo Vallecano",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 7,
+                    "season": "23/24",
+                    "team": "Real Madrid",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 8,
+                    "season": "23/24",
+                    "team": "Villarreal",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 9,
+                    "season": "23/24",
+                    "team": "Barcelona",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 10,
+                    "season": "23/24",
+                    "team": "Atletico Madrid",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 11,
+                    "season": "23/24",
+                    "team": "Sevilla",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 12,
+                    "season": "23/24",
+                    "team": "Mallorca",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 13,
+                    "season": "23/24",
+                    "team": "Almeria",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 14,
+                    "season": "23/24",
+                    "team": "Valencia",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 15,
+                    "season": "23/24",
+                    "team": "Ath. Bilbao",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 16,
+                    "season": "23/24",
+                    "team": "Betis",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 17,
+                    "season": "23/24",
+                    "team": "Getafe",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 18,
+                    "season": "23/24",
+                    "team": "Osasuna",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 19,
+                    "season": "23/24",
+                    "team": "Girona",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 20,
+                    "season": "23/24",
+                    "team": "Granada",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                }
+            ]
         },
         {
             "id": 4,
-            "leauge": []
+            "leauge": [
+                {
+                    "id": 1,
+                    "season": "23/24",
+                    "team": "Brest",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 2,
+                    "season": "23/24",
+                    "team": "Clermont",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 3,
+                    "season": "23/24",
+                    "team": "Le Havre",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 4,
+                    "season": "23/24",
+                    "team": "Lens",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 5,
+                    "season": "23/24",
+                    "team": "Lille",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 6,
+                    "season": "23/24",
+                    "team": "Lorient",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 7,
+                    "season": "23/24",
+                    "team": "Lyon",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 8,
+                    "season": "23/24",
+                    "team": "Marseielle",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 9,
+                    "season": "23/24",
+                    "team": "Monaco",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 10,
+                    "season": "23/24",
+                    "team": "Metz",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 11,
+                    "season": "23/24",
+                    "team": "Montpellier",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 12,
+                    "season": "23/24",
+                    "team": "Nantes",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 13,
+                    "season": "23/24",
+                    "team": "Nice",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 14,
+                    "season": "23/24",
+                    "team": "Paris Saint-Germain",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 15,
+                    "season": "23/24",
+                    "team": "Reims",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 16,
+                    "season": "23/24",
+                    "team": "Rennes",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 17,
+                    "season": "23/24",
+                    "team": "Strasbourg",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 18,
+                    "season": "23/24",
+                    "team": "Toulouse",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                }
+            ]
         },
         {
             "id": 5,
-            "leauge": []
+            "leauge": [
+                {
+                    "id": 1,
+                    "season": "23/24",
+                    "team": "Atalanta",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 2,
+                    "season": "23/24",
+                    "team": "Bologna",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 3,
+                    "season": "23/24",
+                    "team": "Cagliari",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 4,
+                    "season": "23/24",
+                    "team": "Empoli",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 5,
+                    "season": "23/24",
+                    "team": "Fiorentina",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 6,
+                    "season": "23/24",
+                    "team": "Frosinone",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 7,
+                    "season": "23/24",
+                    "team": "Genoa",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 8,
+                    "season": "23/24",
+                    "team": "Hellas Verona",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 9,
+                    "season": "23/24",
+                    "team": "Inter Milan",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 10,
+                    "season": "23/24",
+                    "team": "Juventus",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 11,
+                    "season": "23/24",
+                    "team": "Lazio",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 12,
+                    "season": "23/24",
+                    "team": "Lecce",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 13,
+                    "season": "23/24",
+                    "team": "AC Milan",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 14,
+                    "season": "23/24",
+                    "team": "Monza",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 15,
+                    "season": "23/24",
+                    "team": "Napoli",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 16,
+                    "season": "23/24",
+                    "team": "Roma",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 17,
+                    "season": "23/24",
+                    "team": "Salernitana",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 18,
+                    "season": "23/24",
+                    "team": "Sassuolo",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 19,
+                    "season": "23/24",
+                    "team": "Torino",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 20,
+                    "season": "23/24",
+                    "team": "Udinese",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                }
+            ]
         }
     ]
 }
