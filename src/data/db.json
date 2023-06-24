@@ -1,0 +1,257 @@
+{
+    "leauges": [
+        {
+            "id": 1,
+            "leauge": [
+                {
+                    "id": 1,
+                    "season": "23/24",
+                    "team": "Arsenal",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 2,
+                    "season": "23/24",
+                    "team": "Aston Villa",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 3,
+                    "season": "23/24",
+                    "team": "Chelsea",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 4,
+                    "season": "23/24",
+                    "team": "Everton",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 5,
+                    "season": "23/24",
+                    "team": "Fulham",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 6,
+                    "season": "23/24",
+                    "team": "Liverpool",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 7,
+                    "season": "23/24",
+                    "team": "Manchester City",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 8,
+                    "season": "23/24",
+                    "team": "Manchester United",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 9,
+                    "season": "23/24",
+                    "team": "Newcastle",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 10,
+                    "season": "23/24",
+                    "team": "Totenham",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 11,
+                    "season": "23/24",
+                    "team": "West Ham",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 12,
+                    "season": "23/24",
+                    "team": "Burnley",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 13,
+                    "season": "23/24",
+                    "team": "Crystal Palace",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 14,
+                    "season": "23/24",
+                    "team": "Sheffield Utd",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 15,
+                    "season": "23/24",
+                    "team": "Wolves",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 16,
+                    "season": "23/24",
+                    "team": "Bournemouth",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 17,
+                    "season": "23/24",
+                    "team": "Brighton",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 18,
+                    "season": "23/24",
+                    "team": "Luton",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 19,
+                    "season": "23/24",
+                    "team": "Nottingham Forest",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                },
+                {
+                    "id": 20,
+                    "season": "23/24",
+                    "team": "Brentford",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "leauge": [
+                {
+                    "id": 1,
+                    "season": "23/24",
+                    "team": "Borrusia Dortmund",
+                    "played": "0",
+                    "winns": "0",
+                    "ties": "0",
+                    "loses": "0",
+                    "goals": "0",
+                    "points": "0"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "leauge": []
+        },
+        {
+            "id": 4,
+            "leauge": []
+        },
+        {
+            "id": 5,
+            "leauge": []
+        }
+    ]
+}
