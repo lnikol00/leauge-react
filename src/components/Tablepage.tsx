@@ -1,9 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { useParams } from "react-router-dom"
 import Table from 'react-bootstrap/Table'
-import Button from 'react-bootstrap/Button';
-import ButtonGroup from 'react-bootstrap/ButtonGroup';
-import Dropdown from 'react-bootstrap/Dropdown';
+import Form from "react-bootstrap/Form"
 
 type leaugesData = {
     id: number,
@@ -27,9 +25,10 @@ function Tablepage() {
     const params = useParams();
 
     const [leauge, setLeauge] = useState<leaugesData>();
+    const [filter, setFilter] = useState<string>("22/23")
 
     useEffect(() => {
-        fetch(`http://localhost:3500/leauges/${params.id}`)
+        fetch(`http://localhost:4000/leauges/${params.id}`)
             .then((res) => res.json())
             .then((json) => setLeauge(json))
     })
@@ -38,18 +37,14 @@ function Tablepage() {
         <div className='bg-secondary p-3'>
             <div className='d-flex align-items-center pb-2'>
                 <h3>Sezona: </h3>
-                <Dropdown as={ButtonGroup} className='ps-2'>
-                    <Button variant='secondary'>23/24</Button>
-
-                    <Dropdown.Toggle split variant="secondary" id="dropdown-split-basic" />
-
-                    <Dropdown.Menu>
-                        <Dropdown.Item >23/24</Dropdown.Item>
-                        <Dropdown.Item >22/23</Dropdown.Item>
-                        <Dropdown.Item >21/22</Dropdown.Item>
-                        <Dropdown.Item >20/21</Dropdown.Item>
-                    </Dropdown.Menu>
-                </Dropdown>
+                <Form.Select aria-label="Default select example" value={filter}
+                    onChange={(e) => setFilter(e.target.value)}
+                    className='w-25 ms-2 mb-2 bg-secondary border border-dark'
+                >
+                    <option value="22/23">22/23</option>
+                    <option value="21/22">21/22</option>
+                    <option value="23/24">20/21</option>
+                </Form.Select>
             </div>
             <Table striped bordered hover variant="dark" responsive>
                 <thead>
@@ -65,7 +60,14 @@ function Tablepage() {
                     </tr>
                 </thead>
                 <tbody>
-                    {leauge?.leauge.map((season, index) => {
+                    {leauge?.leauge.filter((season) => {
+                        if (filter === "22/23") {
+                            return season;
+                        }
+                        else if (season.season.toLocaleLowerCase().includes(filter.toLocaleLowerCase())) {
+                            return season;
+                        }
+                    }).map((season, index) => {
                         return (
                             <tr key={index}>
                                 <td>{index + 1}</td>
