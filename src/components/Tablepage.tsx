@@ -43,7 +43,6 @@ function Tablepage() {
                 >
                     <option value="22/23">22/23</option>
                     <option value="21/22">21/22</option>
-                    <option value="23/24">20/21</option>
                 </Form.Select>
             </div>
             <Table striped bordered hover variant="dark" responsive>
@@ -61,10 +60,7 @@ function Tablepage() {
                 </thead>
                 <tbody>
                     {leauge?.leauge.filter((season) => {
-                        if (filter === "22/23") {
-                            return season;
-                        }
-                        else if (season.season.toLocaleLowerCase().includes(filter.toLocaleLowerCase())) {
+                        if (season.season.toLocaleLowerCase().includes(filter.toLocaleLowerCase())) {
                             return season;
                         }
                     }).map((season, index) => {
