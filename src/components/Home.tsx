@@ -4,12 +4,12 @@ import Image from "react-bootstrap/Image"
 
 function Home() {
     return (
-        <div className="bg-secondary p-3">
+        <div className="bg-secondary p-3" >
             <h1 className="d-flex justify-content-center pt-3 fw-bold">
                 LIGA PETICE <Badge bg="secondary">New</Badge>
             </h1>
             <Image src="https://1.bp.blogspot.com/-YvkrP-QOuFo/XXZP3P1xUCI/AAAAAAAAV_c/w0YNvUkjbdIXGjMZZY68WGwxjPZlZFz-QCLcBGAs/w1200-h630-p-k-no-nu/liga%2Bpetice.jpg" className="w-100 py-3" />;
-            <Accordion defaultActiveKey="0" className="mb-5">
+            <Accordion defaultActiveKey="0" className="mb-5" data-bs-theme="dark">
                 <Accordion.Item eventKey="0" className="bg-secondary">
                     <Accordion.Header>Premier Leauge</Accordion.Header>
                     <Accordion.Body className="text-white">
